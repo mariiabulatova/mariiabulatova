@@ -6,6 +6,7 @@
 
 
 - ✨ Currently a student at Yandex Practicum, taking Python Developer course.
+- ✨ Track by Hyperskill by JetBrains: Python for Beginners https://hyperskill.org/profile/18073179
 
 <!---
 mariiabulatova/mariiabulatova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
